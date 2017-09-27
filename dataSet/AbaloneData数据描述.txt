@@ -1,0 +1,25 @@
+	Name			Data Type	Meas.		Description
+	----			---------	-----		-----------
+	Sex				nominal		M, F, and I (infant)
+	Length			continuous	mm			Longest shell measurement
+	Diameter		continuous	mm			perpendicular to length
+	Height			continuous	mm			with meat in shell
+	Whole weight	continuous	grams		whole abalone
+	Shucked weight	continuous	grams		weight of meat
+	Viscera weight	continuous	grams		gut weight (after bleeding)
+	Shell weight	continuous	grams		after being dried
+	Rings			integer					+1.5 gives the age in years
+
+
+
+	名称					 				描述
+	----			-------- 	----- 		-----------
+	性别			M，F和I（婴儿）
+	长度			连续mm最长外壳测量
+	直径			连续mm垂直于长度
+	高度			连续mm与肉在壳
+	全重			连续克全鲍鱼
+	去皮重量		连续克重肉
+	内脏重量		连续克肠重（出血后）
+	外壳重量		连续克干后
+	周长			整数+1.5给出年龄
